@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+<!-- <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=orange"/>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- <a href="你的CSDN主页链接">
   <img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/>
 </a> -->
-</p>
+</p> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=joshuaaam&show_icons=true&theme=dark&count_private=true) 
 
