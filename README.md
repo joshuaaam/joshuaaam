@@ -1,6 +1,7 @@
 
 
 
+<!-- 
 ### Hi there 👋
 
 **joshuaaam/joshuaaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+-->
 <!-- <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
